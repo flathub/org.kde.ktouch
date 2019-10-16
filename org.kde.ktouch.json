@@ -33,6 +33,7 @@
         {
             "name": "ktouch",
             "buildsystem": "cmake-ninja",
+            "config-opts": ["-DCOMPILE_QML=OFF"],
             "sources": [
                 {
 	                "type": "archive",
