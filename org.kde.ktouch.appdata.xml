@@ -107,7 +107,7 @@
   </provides>
   <content_rating type="oars-1.0" />
   <releases>
-    <release version="2019.08.0" date="2019-08-15"/>
     <release version="2019.08.3" date="2019-11-07"/>
+    <release version="2019.08.0" date="2019-08-15"/>
   </releases>
 </component>
