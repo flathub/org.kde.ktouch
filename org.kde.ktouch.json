@@ -25,8 +25,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/kqtquickcharts-21.04.1.tar.xz",
-                    "sha256": "452b365626f47fe9fb51d1a202ed341493a42e375d64d09d9c13007a12ac0fff"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/kqtquickcharts-21.04.2.tar.xz",
+                    "sha256": "4176e7d3a2cbb48a33f6a242d5e8c9e643d2d16393fe6946d8ca7c77baf58b44"
                 }
             ]
         },
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/ktouch-21.04.1.tar.xz",
-                    "sha256": "2286f88caa668512322d5d72f2211c6c474c909089c238113c866b73f08ed8d5"
+                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/ktouch-21.04.2.tar.xz",
+                    "sha256": "4f72d8d1591bf9287addcc511c8662b38ec5ada5c7b95520b7cf272d68240fa0"
                 }
             ]
         }
