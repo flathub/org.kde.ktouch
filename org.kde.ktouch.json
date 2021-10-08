@@ -5,7 +5,13 @@
     "sdk": "org.kde.Sdk",
     "command": "ktouch",
     "rename-icon": "ktouch",
-    "finish-args": ["--share=ipc", "--socket=x11", "--socket=wayland", "--device=dri"],
+    "finish-args": [
+        "--share=ipc", 
+        "--socket=x11",
+        "--socket=fallback-x11", 
+        "--socket=wayland", 
+        "--device=dri"
+    ],
 
     "modules": [
         {
