@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kqtquickcharts-22.08.1.tar.xz",
-                    "sha256": "28af0f40d11e8e4e21fc5a52fc64ab788bdcb9b382b6bb82e74ec127f8e32275",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kqtquickcharts-22.08.2.tar.xz",
+                    "sha256": "83b4cc96966d15406338526f4f7de90b8c3a41ccae947ea10708a0bc18973a3b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
