@@ -58,8 +58,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/ktouch-23.04.1.tar.xz",
-                    "sha256": "e4a32f3c1e7af3c123d8c18fea8c31883a614dba8f88ec5cc73bd6cd54f35cb5",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/ktouch-23.04.2.tar.xz",
+                    "sha256": "c17890ee191aac267c5826328388b5310f7ae28c9078ccb1599693c2f716f56d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
