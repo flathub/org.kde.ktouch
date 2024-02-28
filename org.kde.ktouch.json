@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kqtquickcharts-23.08.5.tar.xz",
-                    "sha256": "62f630715acf88598c7f144387195d261691994aa007d6b1d078a23df2f533fe",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kqtquickcharts-24.02.0.tar.xz",
+                    "sha256": "7e483009d09d66cea9926042a873bebb85b1d89732dac01745d118d858211ccf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -58,8 +58,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/ktouch-23.08.5.tar.xz",
-                    "sha256": "2d102a73560da4676628bb138eeec2d847dd35db0224b9fd0a7016ebfef59c5d",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/ktouch-24.02.0.tar.xz",
+                    "sha256": "7d668c01587318dd4b7a49edb555e96e58186e58466c7288bb179166c7235b5b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
