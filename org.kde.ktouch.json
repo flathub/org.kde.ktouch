@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ktouch",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-24.08",
+    "runtime-version": "6.9",
     "sdk": "org.kde.Sdk",
     "command": "ktouch",
     "rename-icon": "ktouch",
@@ -38,8 +38,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/kqtquickcharts-25.04.3.tar.xz",
-                    "sha256": "6df9523d905944957d227aec009cdf45f202b279296269dde8f63a02b549c028",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/kqtquickcharts-25.08.0.tar.xz",
+                    "sha256": "ac19517bd806746b3ed4f9c63ed219bb083bcfc614426400d0959c6a4638672c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -58,8 +58,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/ktouch-25.04.3.tar.xz",
-                    "sha256": "acc1cf7f43526a8fb569f96e63aca39ec3e6e2ac6807d27005650f870af59e90",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/ktouch-25.08.0.tar.xz",
+                    "sha256": "d1ca5bf8760d19bfa0412875bcda5cdb9b4c0db9bbb39c43f1d7a4042b2d91d3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
