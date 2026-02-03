@@ -11,6 +11,15 @@
         "--socket=wayland",
         "--socket=x11"
     ],
+     "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/share/doc",
+        "/share/man",
+        "*.la",
+        "*.a"
+    ],
     "modules": [
         {
             "name": "libxkbfile",
