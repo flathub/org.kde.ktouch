@@ -11,7 +11,7 @@
         "--socket=wayland",
         "--socket=x11"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/cmake",
         "/lib/pkgconfig",
@@ -47,8 +47,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kqtquickcharts-25.12.2.tar.xz",
-                    "sha256": "bc7a5868c97309147cffa665606043af8f76c71b4000446f41d7f5ed5c10447c",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kqtquickcharts-25.12.3.tar.xz",
+                    "sha256": "6c590488698efca35d0db93b1b03264cc5da1e7c726d19f62272255a7469dc4b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -67,8 +67,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/ktouch-25.12.2.tar.xz",
-                    "sha256": "9ea5e4b490f3a85fd0542cc43c277a1ee0323f1616b8dddff5147fb4db995c45",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/ktouch-25.12.3.tar.xz",
+                    "sha256": "88ed5ef0c492321be6c926bc3af3b573c4a7d2fba0b65568b5ad50b40a48c790",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
