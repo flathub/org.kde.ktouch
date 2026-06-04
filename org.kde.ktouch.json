@@ -67,8 +67,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.1/src/ktouch-26.04.1.tar.xz",
-                    "sha256": "fe93fba18f4c1c01a019a0c462ee890462a92da402c2a138528a08e9d1dda241",
+                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/ktouch-26.04.2.tar.xz",
+                    "sha256": "fde4463b9623ff11b4926ce31d42717ba997d14c0b902ae65060a63d62c2b3ab",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
