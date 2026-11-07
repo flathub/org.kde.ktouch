@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xorg.freedesktop.org/releases/individual/lib/libxkbfile-1.1.3.tar.gz",
-                    "sha256": "c4c2687729d1f920f165ebb96557a1ead2ef655809ab5eaa66a1ad36dc31050d",
+                    "url": "https://xorg.freedesktop.org/releases/individual/lib/libxkbfile-1.2.0.tar.xz",
+                    "sha256": "7f71884e5faf56fb0e823f3848599cf9b5a9afce51c90982baeb64f635233ebf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1781,
@@ -47,8 +47,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kqtquickcharts-26.04.3.tar.xz",
-                    "sha256": "f8b5f3a37a1f2c5e6c0f1eb749917d642b341502c1b1c5ba5b082ede80f2aef8",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kqtquickcharts-26.08.3.tar.xz",
+                    "sha256": "a42acf10ca0c3254ca32b148f8f66bfb3c8d3a8c67288a49a7cb5b9c00e29bed",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -67,8 +67,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/ktouch-26.04.3.tar.xz",
-                    "sha256": "d3460642df3de3934eb94c41d934234d53a7aaf429a8fb95535c754f6e4cd68a",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/ktouch-26.08.3.tar.xz",
+                    "sha256": "12e725ea722f0b856e274277021b515e79052979717991d8a64699028c881307",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
